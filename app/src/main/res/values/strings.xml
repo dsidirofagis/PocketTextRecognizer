@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Pocket Text Recognizer</string>
+    <string name="txt_message">Press the scan button to begin scanning</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="low_storage_error">Ocr dependencies cannot be downloaded due to low device storage</string>
+    <string name="listen_error">Nothing to listen to \nPlease scan text and try again</string>
+
+    <string name="scan_button">scan</string>
+    <string name="capture_button">capture</string>
+    <string name="listen_button">listen</string>
+
+    <string name="save_button">save scanned text</string>
+    <string name="saveSuccessful">Text successfully Stored</string>
+    <string name="saveUnsuccessful">Text not Stored \nPlease try again</string>
+
+    <string name="update_button">update entry</string>
+    <string name="updateSuccessful">Text successfully Updated</string>
+    <string name="updateUnsuccessful">Text not Updated \nPlease insert an already existing ID and try again</string>
+
+    <string name="view_button">view all entries</string>
+
+    <string name="delete_button">delete entry</string>
+    <string name="deleteSuccessful">Entry successfully Deleted</string>
+    <string name="deleteUnsuccessful">Entry not Deleted \nPlease insert an already existing ID and try again</string>
+
+    <string name="reset_button">reset scanner</string>
+</resources>
